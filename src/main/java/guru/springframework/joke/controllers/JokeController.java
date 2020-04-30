@@ -1,4 +1,4 @@
-package guru.springframework.joke;
+package guru.springframework.joke.controllers;
 
 import guru.springframework.joke.services.JokeService;
 import org.springframework.beans.factory.annotation.Autowired;
